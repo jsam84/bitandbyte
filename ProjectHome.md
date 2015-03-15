@@ -1,0 +1,1 @@
+Provides a Byte and Bit Data Object for easily manipulating binary data.
